@@ -1,7 +1,7 @@
 Pre-Show Loving Kindness Meditation
 ===================================
 
-How to do it...
+How To Do It...
 ---------------
 
 The practice always begins with developing a loving acceptance of yourself. If resistance is experienced then it indicates that feelings of unworthiness are present. No matter, this means there is work to be done, as the practice itself is designed to overcome any feelings of self-doubt or negativity. Then you are ready to systematically develop loving-kindness towards others.
@@ -13,7 +13,7 @@ The practice always begins with developing a loving acceptance of yourself. If r
 * May I be healthy and strong.
 * May I be able to perform on this stage happily, peacefully, joyfully, with ease.
 
-Four Types Of Persons to develop loving-kindness towards
+Four Types Of Persons To Develop Loving-Kindness Towards
 --------------------------------------------------------
 
 * a respected, beloved person - such as a teacher, mentor, writer, performer;
@@ -23,7 +23,7 @@ Four Types Of Persons to develop loving-kindness towards
 
 Starting with yourself, then systematically sending loving-kindness from person to person in the above order will have the effect of breaking down the barriers between the four types of people and yourself. This will have the effect of breaking down the divisions within your own mind, the source of much of the conflict we experience. Try different people to practice on, as some people do not easily fit into the above categories, but do try to keep to the prescribed order. If you have difficulty with a person, and continue to experience feelings of ill will towards them, switch back to the beloved people to continue those feelings of loving kindness.
 
-Ways of arousing feelings of loving-kindness
+Ways Of Arousing Feelings Of Loving-kindness
 --------------------------------------------
 
 1. Visualisation - Bring up a mental picture. See yourself or the person the feeling is directed at smiling back at you or just being joyous.
@@ -49,4 +49,7 @@ Once you have arisen positive feelings of loving kindness, turn that loving kind
 
 _"May all living beings everywhere, on all planes of existence, known and unknown, be happy, be peaceful, be free from suffering."_
 
-{"keywords":["improv","mindfulness"]}
+___
+    Author: Darin Webb
+    Posted: 2014-12-20
+    Tags: Improv, Mindfulness
