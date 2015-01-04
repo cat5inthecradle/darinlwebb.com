@@ -7,4 +7,5 @@ Site To-Do
 ----------
 
 [x] Start making the thing
-[ ] Create a root page
+[x] Create a root page
+[ ] Implement tagging
